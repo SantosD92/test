@@ -348,7 +348,7 @@ footer {
     margin-bottom: 30px;
 }
 
-/*--------------------------------contant form----------------------*/
+/*--------------------------------contant Form----------------------*/
 
 .contact-heading: {
     font-family: "Exo", sans-serif;
@@ -360,7 +360,7 @@ footer {
 .center-form {
     padding-top: 10px;
     margin: 0 auto;
-    max-width: 70%
+    max-width: 70%;
 }
 
 button[type="submit"] {
@@ -377,6 +377,7 @@ button[type="submit"] {
         padding-top: 30px;
         min-height: 240px;
         margin: 0;
-        max-width: 50%
+        margin-left:25em;
+        max-width: 50%;
     }
 }
